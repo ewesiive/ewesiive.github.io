@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ewesiive.github.io/AJQ/sitemap_index.txt
+Sitemap: https://ewesiive.github.io/EUK/sitemap_index.txt
+Sitemap: https://ewesiive.github.io/WkH/sitemap_index.txt
+Sitemap: https://ewesiive.github.io/glH/sitemap_index.txt
